@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PortToLand</string>
+    <string name="calculate_square">Calculate Square</string>
+    <string name="enter_number_below">Enter Number Below</string>
+</resources>
